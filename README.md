@@ -1,6 +1,11 @@
 # Lands-of-Archearia-3D
 Stereoscopic 3D game with head tracking for Windows.
 
+<a href="https://bit.ly/3waET18">
+ <img src="images/Lands of Archearia 3D Preview.png"
+      alt="closeup"
+      /></a>
+
 ## Game Download
 I'm facing temporary problems doing commits and pushes on my repos, and the github web interface doesn't allow me to upload the game cause it's bigger than 25 Mb.
 To solve this I've temporarily uploaded the game on MEGA ( https://mega.nz/file/rcBXxIBJ#WWlYCk4oiGJ87EPt-wp6UIryp9qN_F3-SiU1fW7cKFU ) but in the next hours and before the 1st of July, I'll result to fix the commit bug and upload all the files, here too! 
