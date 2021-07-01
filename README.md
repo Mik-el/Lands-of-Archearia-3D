@@ -14,6 +14,8 @@ I must use an external mirror. So please download the game from the link above, 
 ## Game dependencies required to play
 [download here][dep]
 
+## Youtube Trailer
+[here][ytvideo]
 
 ## How to Support me
 |  |  |
@@ -36,3 +38,4 @@ I must use an external mirror. So please download the game from the link above, 
 [cam]:<https://cam.tv/mik_el_tech>
 [tg]:<https://bit.ly/Mikel_TG>
 [dep]:<https://production.holo-dev.com/HoloSDK.exe>
+[ytvideo]:<https://bit.ly/3waET18>
