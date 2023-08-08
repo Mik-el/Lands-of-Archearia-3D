@@ -10,7 +10,7 @@ Stereoscopic 3D game with head tracking for Windows.
 [here][ytvideo]
 
 ## 3D Glasses
-<a href="https://amzn.to/3DKYuuW">
+<a href="https://amzn.to/3Oq3aLB">
  <img src="images/glasses.png"
       alt="closeup"
       width="300"/></a>
